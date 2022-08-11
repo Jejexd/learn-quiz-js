@@ -1,0 +1,21 @@
+body {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Source Sans Pro", Helvetica, Arial;
+}
+header {
+  text-align: left;
+}
+.card {
+  background-color: #a2a8d3;
+  margin: 80px auto;
+  padding: 150px;
+  border-radius: 100px;
+  text-align: center;
+  font-size: 28px;
+  width: 500px;
+  height: 350px;
+}
+
+.welcome-text {
+  text-align: center;
+}
